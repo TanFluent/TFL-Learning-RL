@@ -4,6 +4,7 @@
 ## Theory
 
 ### Lectures
+- 李宏毅 .[Deep RL](https://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 ### Books
 - .[Books/深入浅出强化学习：原理入门.pdf](https://github.com/borninfreedom/DeepLearning/blob/master/Books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%8E%9F%E7%90%86%E5%85%A5%E9%97%A8.pdf)
 - 
