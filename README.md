@@ -18,7 +18,7 @@
 - 腾讯技术工程官方号,.[写给开发同学的 AI 强化学习入门指南](https://cloud.tencent.com/developer/article/2276426)
 - 张浩, [强化学习入门：基本思想和经典算法](https://zhuanlan.zhihu.com/p/466455380)
 - [Reinforcement Learning Cheat Sheet](https://alxthm.com/assets/pdf/rl-cheatsheet.pdf) - A summary of some important concepts and algorithms in RL
-- .[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
+- 蘑菇书EasyRL.[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
 
 ## Online Demos
  - [Real-world demonstrations of Reinforcement Learning](http://www.dcsc.tudelft.nl/~robotics/media.html)
