@@ -47,9 +47,3 @@
 - [Microsoft AirSim](https://microsoft.github.io/AirSim/reinforcement_learning/) - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research.
 - [DI-engine](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 - [Jumanji](https://github.com/instadeepai/jumanji) - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
-
-## valuable Contributors👩‍💻👨‍💻 :
-
-<p align="center"><a href="https://github.com/aikorea/awesome-rl">
-  <img src="https://contributors-img.web.app/image?repo=aikorea/awesome-rl" />
-</a></p>
