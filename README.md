@@ -5,6 +5,7 @@
 
 ### Lectures
 ### Books
+- .[Books/深入浅出强化学习：原理入门.pdf](https://github.com/borninfreedom/DeepLearning/blob/master/Books/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%9A%E5%8E%9F%E7%90%86%E5%85%A5%E9%97%A8.pdf)
 ### Surveys
 ### Papers / Thesis
 
@@ -14,7 +15,8 @@
 
 ## Tutorials / Websites
 - 张浩, [强化学习入门：基本思想和经典算法](https://zhuanlan.zhihu.com/p/466455380)
-
+- [Reinforcement Learning Cheat Sheet](https://alxthm.com/assets/pdf/rl-cheatsheet.pdf) - A summary of some important concepts and algorithms in RL
+- .[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
 
 ## Online Demos
  - [Real-world demonstrations of Reinforcement Learning](http://www.dcsc.tudelft.nl/~robotics/media.html)
